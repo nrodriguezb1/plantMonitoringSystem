@@ -16,6 +16,4 @@ The project is based on the B-L072Z-LRWAN1 LoRa®/Sigfox™ Discovery kit and se
 
 #### Scheme of connections
 
-[]scheme.png 
-
-nrodriguezb1/plantMonitoringSystem/
+[](scheme.png)
