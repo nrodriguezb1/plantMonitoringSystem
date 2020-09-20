@@ -17,3 +17,7 @@ The project is based on the B-L072Z-LRWAN1 LoRa®/Sigfox™ Discovery kit and se
 #### Scheme of connections
 
 ![](scheme.png)
+
+## Software used
+
+The project was developed in the μVision IDE. For more info visit [μVision IDE.](http://www2.keil.com/mdk5/uvision/)
