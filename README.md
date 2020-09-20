@@ -15,6 +15,7 @@ The project is based on the B-L072Z-LRWAN1 LoRa®/Sigfox™ Discovery kit and se
 - **Common cathode RGB LED**
 
 #### Scheme of connections
-scheme.pngImage description 
+
+[]scheme.png 
 
 nrodriguezb1/plantMonitoringSystem/
